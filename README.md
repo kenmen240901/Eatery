@@ -19,23 +19,24 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone <repository-url>
+git clone (https://github.com/kenmen240901/Eatery/)
+
 Navigate to the backend directory:
-
 cd backend
-Install dependencies:
 
+Install dependencies:
 npm install
+
 Start the backend server:
-
 npm start
+
 Open another terminal window/tab and navigate to the frontend directory:
-
 cd frontend
+
 Install dependencies:
-
 npm install
-Start the frontend server:
 
+Start the frontend server:
 npm start
+
 Open your web browser and go to http://localhost:3000 to access the application.

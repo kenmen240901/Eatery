@@ -61,5 +61,6 @@ User Experience Improvements: Enhance the overall user experience with features 
 Payment Integration: Integrate with popular payment gateways to support multiple payment methods and ensure secure transactions.
 
 Deliverables
-Source Code: The complete source code of the food ordering platform, including all necessary files and resources, is available on GitHub. The repository link for this project is: [GitHub Repository Link](https://github.com/kenmen240901/Eatery)
+Source Code: The complete source code of the food ordering platform, including all necessary files and resources, is available on GitHub. The repository link for this project is: [https://github.com/kenmen240901/Eatery]
+
 Documentation: This README file explains the design, implementation, and instructions on how to run the application.
